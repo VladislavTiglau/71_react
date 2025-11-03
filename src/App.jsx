@@ -1,5 +1,5 @@
 import "./App.css";
-import Homework02 from "./homeworks/Homework02";
+import Homework02 from "./homeworks/Homework02/Homework02";
 // Импортируем компонент Button для его дальнейшего использования
 // import Button from "./components/Button/Button";
 function App() {
