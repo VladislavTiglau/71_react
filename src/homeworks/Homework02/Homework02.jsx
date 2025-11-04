@@ -1,17 +1,9 @@
 import React from "react";
-import ProfileCard from "../../components/ProfileCard";
+import ProfileCard from "../../components/ProfileCard/ProfileCard";
 
 const Homework02 = () => {
   return (
-    <div
-      style={{
-        display: "flex",
-        justifyContent: "center",
-        gap: "24px",
-        flexWrap: "wrap",
-        marginTop: "40px",
-      }}
-    >
+    <div className="homework02-container">
       <ProfileCard
         avatar="https://randomuser.me/api/portraits/men/32.jpg"
         name="Алексей Смирнов"
