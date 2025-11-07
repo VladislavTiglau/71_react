@@ -1,5 +1,5 @@
 import "./App.css";
-import Homework03 from "./homeworks/Homework03/Homework03";
+import Homework04 from "./homeworks/Homework04/Homework04";
 // Импортируем компонент Button для его дальнейшего использования
 // import Button from "./components/Button/Button";
 function App() {
@@ -10,7 +10,7 @@ function App() {
       {/* <div className="button-container">
         <Button />
       </div> */}
-      <Homework03 />
+      <Homework04 />
     </div>
   );
 }
